@@ -1,0 +1,26 @@
+[
+    {
+        "-ID-": 32,
+        "-EDIFICIO-": "Edificio01",
+        "-CONTACTO-": "423-3233-2324",
+        "-ESTADO-": "Incompleto",
+        "-CATEGORIA-": "Segurizado",
+        "id": 1
+    },
+    {
+        "-ID-": 3,
+        "-EDIFICIO-": "Edificio02",
+        "-CONTACTO-": "423-3233-2324",
+        "-ESTADO-": "Completo",
+        "-CATEGORIA-": "No Segurizado",
+        "id": 2
+    },
+    {
+        "-ID-": 6,
+        "-EDIFICIO-": "Palacio Municipal",
+        "-CONTACTO-": "321-1434-1344",
+        "-ESTADO-": "Completo",
+        "-CATEGORIA-": "Segurizado",
+        "id": 3
+    }
+]
